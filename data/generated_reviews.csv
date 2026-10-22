@@ -1,0 +1,601 @@
+review_id,review,theme,is_synthetic
+synthetic-00421,"So far, the wireless pairing is unreliable; the signal drops in another room. I would consider buying it again.",connectivity,true
+synthetic-00454,"After a week, the wireless pairing is unreliable; pairing took only a few seconds. It was the deciding factor for me.",connectivity,true
+synthetic-00537,"After a week, the help desk is slow; the replacement process was clear. It was the deciding factor for me.",customer_support,true
+synthetic-00076,"Compared with my old one, the headphones is clear; the bass is surprisingly good. I would consider buying it again.",audio_quality,true
+synthetic-00411,"After a week, the phone connection is frustrating; pairing took only a few seconds. This is the part I noticed most often.",connectivity,true
+synthetic-00514,"For the price, the support team is slow; I had to repeat the problem twice. I would consider buying it again.",customer_support,true
+synthetic-00475,"Overall, the Bluetooth connection is frustrating; switching devices is straightforward. That detail mattered more than I expected.",connectivity,true
+synthetic-00455,"Compared with my old one, the Bluetooth connection is frustrating; switching devices is straightforward. It was the deciding factor for me.",connectivity,true
+synthetic-00520,"Compared with my old one, the help desk is helpful; my issue was resolved on the first call. I would consider buying it again.",customer_support,true
+synthetic-00066,"Honestly, the headphones is crisp; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00249,"After a week, the package is careful; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00158,"Overall, the earbuds is excellent; the battery indicator is helpful. That detail mattered more than I expected.",battery,true
+synthetic-00503,"Overall, the support team is unresponsive; my issue was resolved on the first call. The experience was different from what I expected.",customer_support,true
+synthetic-00167,"So far, the earbuds is reliable; the battery indicator is helpful. I would consider buying it again.",battery,true
+synthetic-00113,"In daily use, the earbuds is disappointing; it lasts through my commute. It was the deciding factor for me.",battery,true
+synthetic-00335,"Overall, the earbuds is comfortable; I can wear it for hours. This is the part I noticed most often.",comfort,true
+synthetic-00600,"Compared with my old one, the support team is slow; the replacement process was clear. That detail mattered more than I expected.",customer_support,true
+synthetic-00297,"So far, the package is confusing; the box arrived in good condition. The experience was different from what I expected.",delivery,true
+synthetic-00551,"Honestly, the help desk is slow; I had to repeat the problem twice. I would consider buying it again.",customer_support,true
+synthetic-00153,"Overall, the portable speaker is short; I have to charge it every evening. I would consider buying it again.",battery,true
+synthetic-00166,"Overall, the earbuds is disappointing; I have to charge it every evening. That detail mattered more than I expected.",battery,true
+synthetic-00148,"Honestly, the portable speaker is disappointing; I have to charge it every evening. This is the part I noticed most often.",battery,true
+synthetic-00047,"So far, the headphones is balanced; music sounds detailed. That detail mattered more than I expected.",audio_quality,true
+synthetic-00388,"As a gift, the earbuds is tight; it fits well during a workout. The experience was different from what I expected.",comfort,true
+synthetic-00398,"After a week, the headset is lightweight; I can wear it for hours. It was the deciding factor for me.",comfort,true
+synthetic-00394,"For the price, the earbuds is tight; the ear cushions need improvement. This is the part I noticed most often.",comfort,true
+synthetic-00401,"Overall, the Bluetooth connection is quick; pairing took only a few seconds. This is the part I noticed most often.",connectivity,true
+synthetic-00290,"So far, the package is careful; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00207,"For the price, the parcel is quick; the box arrived in good condition. I would consider buying it again.",delivery,true
+synthetic-00121,"Compared with my old one, the headphones is reliable; I have to charge it every evening. That detail mattered more than I expected.",battery,true
+synthetic-00247,"Honestly, the package is late; delivery took longer than promised. That detail mattered more than I expected.",delivery,true
+synthetic-00059,"Overall, the headphones is balanced; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00173,"For the price, the portable speaker is disappointing; I have to charge it every evening. The experience was different from what I expected.",battery,true
+synthetic-00420,"As a gift, the Bluetooth connection is frustrating; the signal drops in another room. That detail mattered more than I expected.",connectivity,true
+synthetic-00091,"Honestly, the earbuds is clear; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00418,"As a gift, the phone connection is frustrating; pairing took only a few seconds. That detail mattered more than I expected.",connectivity,true
+synthetic-00039,"In daily use, the speaker is balanced; podcasts are easy to hear. I would consider buying it again.",audio_quality,true
+synthetic-00589,"For the price, the service agent is unresponsive; the replacement process was clear. The experience was different from what I expected.",customer_support,true
+synthetic-00195,"So far, the portable speaker is disappointing; it lasts through my commute. The experience was different from what I expected.",battery,true
+synthetic-00422,"In daily use, the phone connection is unreliable; switching devices is straightforward. The experience was different from what I expected.",connectivity,true
+synthetic-00129,"Honestly, the portable speaker is excellent; it lasts through my commute. I would consider buying it again.",battery,true
+synthetic-00359,"So far, the earbuds is stiff; I can wear it for hours. This is the part I noticed most often.",comfort,true
+synthetic-00586,"After a week, the help desk is unresponsive; I had to repeat the problem twice. I would consider buying it again.",customer_support,true
+synthetic-00177,"So far, the headphones is short; I have to charge it every evening. This is the part I noticed most often.",battery,true
+synthetic-00109,"Honestly, the earbuds is disappointing; it lasts through my commute. That detail mattered more than I expected.",battery,true
+synthetic-00209,"Honestly, the package is careful; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00506,"In daily use, the help desk is slow; my issue was resolved on the first call. The experience was different from what I expected.",customer_support,true
+synthetic-00095,"Honestly, the speaker is clear; the bass is surprisingly good. That detail mattered more than I expected.",audio_quality,true
+synthetic-00099,"In daily use, the headphones is rich; music sounds detailed. That detail mattered more than I expected.",audio_quality,true
+synthetic-00318,"Compared with my old one, the headset is comfortable; it fits well during a workout. The experience was different from what I expected.",comfort,true
+synthetic-00175,"In daily use, the earbuds is excellent; it lasts through my commute. The experience was different from what I expected.",battery,true
+synthetic-00244,"In daily use, the order is late; tracking updates were useful. I would consider buying it again.",delivery,true
+synthetic-00015,"After a week, the speaker is clear; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00087,"Compared with my old one, the headphones is crisp; the bass is surprisingly good. It was the deciding factor for me.",audio_quality,true
+synthetic-00513,"So far, the support team is professional; I had to repeat the problem twice. The experience was different from what I expected.",customer_support,true
+synthetic-00563,"So far, the service agent is slow; the replacement process was clear. This is the part I noticed most often.",customer_support,true
+synthetic-00427,"In daily use, the wireless pairing is quick; switching devices is straightforward. It was the deciding factor for me.",connectivity,true
+synthetic-00549,"In daily use, the service agent is helpful; the replacement process was clear. The experience was different from what I expected.",customer_support,true
+synthetic-00363,"After a week, the headphones is stiff; I can wear it for hours. I would consider buying it again.",comfort,true
+synthetic-00144,"So far, the portable speaker is short; the battery indicator is helpful. It was the deciding factor for me.",battery,true
+synthetic-00246,"Overall, the order is late; delivery took longer than promised. This is the part I noticed most often.",delivery,true
+synthetic-00323,"So far, the headset is tight; the ear cushions need improvement. That detail mattered more than I expected.",comfort,true
+synthetic-00484,"After a week, the wireless pairing is frustrating; the signal drops in another room. This is the part I noticed most often.",connectivity,true
+synthetic-00225,"Compared with my old one, the package is late; delivery took longer than promised. The experience was different from what I expected.",delivery,true
+synthetic-00405,"Honestly, the phone connection is unreliable; the signal drops in another room. I would consider buying it again.",connectivity,true
+synthetic-00366,"After a week, the earbuds is stiff; I can wear it for hours. The experience was different from what I expected.",comfort,true
+synthetic-00515,"As a gift, the support team is unresponsive; I had to repeat the problem twice. The experience was different from what I expected.",customer_support,true
+synthetic-00279,"Honestly, the parcel is confusing; the box arrived in good condition. That detail mattered more than I expected.",delivery,true
+synthetic-00396,"Overall, the headphones is tight; I can wear it for hours. This is the part I noticed most often.",comfort,true
+synthetic-00100,"So far, the headphones is clear; music sounds detailed. The experience was different from what I expected.",audio_quality,true
+synthetic-00536,"As a gift, the support team is professional; I had to repeat the problem twice. I would consider buying it again.",customer_support,true
+synthetic-00212,"In daily use, the parcel is confusing; delivery took longer than promised. It was the deciding factor for me.",delivery,true
+synthetic-00324,"Honestly, the earbuds is stiff; the ear cushions need improvement. It was the deciding factor for me.",comfort,true
+synthetic-00438,"In daily use, the phone connection is stable; pairing took only a few seconds. The experience was different from what I expected.",connectivity,true
+synthetic-00580,"As a gift, the help desk is slow; the replacement process was clear. It was the deciding factor for me.",customer_support,true
+synthetic-00357,"Honestly, the earbuds is tight; it fits well during a workout. This is the part I noticed most often.",comfort,true
+synthetic-00557,"As a gift, the support team is helpful; the replacement process was clear. This is the part I noticed most often.",customer_support,true
+synthetic-00444,"So far, the wireless pairing is unreliable; switching devices is straightforward. This is the part I noticed most often.",connectivity,true
+synthetic-00042,"After a week, the speaker is crisp; music sounds detailed. The experience was different from what I expected.",audio_quality,true
+synthetic-00341,"Compared with my old one, the earbuds is comfortable; it fits well during a workout. That detail mattered more than I expected.",comfort,true
+synthetic-00521,"As a gift, the support team is slow; the replacement process was clear. I would consider buying it again.",customer_support,true
+synthetic-00581,"After a week, the support team is unresponsive; the replacement process was clear. The experience was different from what I expected.",customer_support,true
+synthetic-00063,"For the price, the headphones is crisp; podcasts are easy to hear. I would consider buying it again.",audio_quality,true
+synthetic-00416,"Overall, the phone connection is quick; switching devices is straightforward. The experience was different from what I expected.",connectivity,true
+synthetic-00553,"As a gift, the service agent is slow; the replacement process was clear. It was the deciding factor for me.",customer_support,true
+synthetic-00530,"As a gift, the service agent is slow; the replacement process was clear. This is the part I noticed most often.",customer_support,true
+synthetic-00122,"As a gift, the earbuds is reliable; I have to charge it every evening. This is the part I noticed most often.",battery,true
+synthetic-00583,"Overall, the service agent is unresponsive; the replacement process was clear. This is the part I noticed most often.",customer_support,true
+synthetic-00202,"After a week, the parcel is confusing; tracking updates were useful. It was the deciding factor for me.",delivery,true
+synthetic-00190,"Honestly, the headphones is short; I have to charge it every evening. The experience was different from what I expected.",battery,true
+synthetic-00107,"Honestly, the portable speaker is disappointing; I have to charge it every evening. That detail mattered more than I expected.",battery,true
+synthetic-00181,"As a gift, the portable speaker is disappointing; I have to charge it every evening. The experience was different from what I expected.",battery,true
+synthetic-00467,"Overall, the Bluetooth connection is stable; the signal drops in another room. This is the part I noticed most often.",connectivity,true
+synthetic-00026,"For the price, the earbuds is clear; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00375,"So far, the headphones is tight; I can wear it for hours. I would consider buying it again.",comfort,true
+synthetic-00018,"As a gift, the headphones is clear; the bass is surprisingly good. This is the part I noticed most often.",audio_quality,true
+synthetic-00564,"So far, the service agent is helpful; I had to repeat the problem twice. This is the part I noticed most often.",customer_support,true
+synthetic-00137,"As a gift, the portable speaker is disappointing; I have to charge it every evening. The experience was different from what I expected.",battery,true
+synthetic-00539,"After a week, the service agent is slow; my issue was resolved on the first call. It was the deciding factor for me.",customer_support,true
+synthetic-00161,"Honestly, the earbuds is disappointing; I have to charge it every evening. The experience was different from what I expected.",battery,true
+synthetic-00372,"Compared with my old one, the headphones is stiff; I can wear it for hours. This is the part I noticed most often.",comfort,true
+synthetic-00351,"As a gift, the earbuds is lightweight; it fits well during a workout. The experience was different from what I expected.",comfort,true
+synthetic-00250,"As a gift, the package is late; delivery took longer than promised. The experience was different from what I expected.",delivery,true
+synthetic-00432,"Honestly, the Bluetooth connection is quick; switching devices is straightforward. That detail mattered more than I expected.",connectivity,true
+synthetic-00171,"For the price, the portable speaker is reliable; I have to charge it every evening. It was the deciding factor for me.",battery,true
+synthetic-00083,"In daily use, the headphones is balanced; music sounds detailed. It was the deciding factor for me.",audio_quality,true
+synthetic-00344,"As a gift, the earbuds is comfortable; it fits well during a workout. This is the part I noticed most often.",comfort,true
+synthetic-00492,"In daily use, the wireless pairing is stable; pairing took only a few seconds. I would consider buying it again.",connectivity,true
+synthetic-00380,"After a week, the earbuds is tight; it fits well during a workout. That detail mattered more than I expected.",comfort,true
+synthetic-00243,"Overall, the package is late; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00259,"So far, the parcel is late; the box arrived in good condition. That detail mattered more than I expected.",delivery,true
+synthetic-00157,"For the price, the earbuds is disappointing; it lasts through my commute. It was the deciding factor for me.",battery,true
+synthetic-00524,"For the price, the help desk is professional; my issue was resolved on the first call. It was the deciding factor for me.",customer_support,true
+synthetic-00287,"Overall, the order is quick; the box arrived in good condition. It was the deciding factor for me.",delivery,true
+synthetic-00534,"Overall, the help desk is unresponsive; my issue was resolved on the first call. I would consider buying it again.",customer_support,true
+synthetic-00332,"Compared with my old one, the earbuds is tight; I can wear it for hours. I would consider buying it again.",comfort,true
+synthetic-00194,"Honestly, the earbuds is reliable; it lasts through my commute. This is the part I noticed most often.",battery,true
+synthetic-00046,"Compared with my old one, the headphones is crisp; podcasts are easy to hear. I would consider buying it again.",audio_quality,true
+synthetic-00446,"As a gift, the phone connection is unreliable; pairing took only a few seconds. It was the deciding factor for me.",connectivity,true
+synthetic-00055,"Overall, the headphones is clear; podcasts are easy to hear. This is the part I noticed most often.",audio_quality,true
+synthetic-00088,"In daily use, the speaker is clear; the bass is surprisingly good. This is the part I noticed most often.",audio_quality,true
+synthetic-00049,"For the price, the headphones is crisp; podcasts are easy to hear. I would consider buying it again.",audio_quality,true
+synthetic-00429,"Compared with my old one, the Bluetooth connection is frustrating; the signal drops in another room. That detail mattered more than I expected.",connectivity,true
+synthetic-00501,"So far, the help desk is professional; I had to repeat the problem twice. It was the deciding factor for me.",customer_support,true
+synthetic-00569,"As a gift, the help desk is slow; my issue was resolved on the first call. It was the deciding factor for me.",customer_support,true
+synthetic-00093,"As a gift, the speaker is balanced; music sounds detailed. It was the deciding factor for me.",audio_quality,true
+synthetic-00277,"Overall, the package is late; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00469,"As a gift, the wireless pairing is frustrating; the signal drops in another room. I would consider buying it again.",connectivity,true
+synthetic-00464,"Honestly, the phone connection is stable; the signal drops in another room. I would consider buying it again.",connectivity,true
+synthetic-00298,"Compared with my old one, the parcel is careful; delivery took longer than promised. That detail mattered more than I expected.",delivery,true
+synthetic-00154,"After a week, the portable speaker is reliable; the battery indicator is helpful. It was the deciding factor for me.",battery,true
+synthetic-00174,"Compared with my old one, the headphones is disappointing; the battery indicator is helpful. The experience was different from what I expected.",battery,true
+synthetic-00151,"In daily use, the earbuds is reliable; it lasts through my commute. This is the part I noticed most often.",battery,true
+synthetic-00496,"For the price, the phone connection is frustrating; the signal drops in another room. It was the deciding factor for me.",connectivity,true
+synthetic-00300,"For the price, the order is quick; the box arrived in good condition. This is the part I noticed most often.",delivery,true
+synthetic-00474,"In daily use, the wireless pairing is unreliable; the signal drops in another room. I would consider buying it again.",connectivity,true
+synthetic-00114,"As a gift, the earbuds is excellent; the battery indicator is helpful. It was the deciding factor for me.",battery,true
+synthetic-00415,"For the price, the Bluetooth connection is quick; the signal drops in another room. It was the deciding factor for me.",connectivity,true
+synthetic-00560,"Overall, the service agent is slow; I had to repeat the problem twice. It was the deciding factor for me.",customer_support,true
+synthetic-00509,"Honestly, the support team is professional; the replacement process was clear. I would consider buying it again.",customer_support,true
+synthetic-00200,"Overall, the portable speaker is short; I have to charge it every evening. That detail mattered more than I expected.",battery,true
+synthetic-00424,"Compared with my old one, the Bluetooth connection is frustrating; switching devices is straightforward. The experience was different from what I expected.",connectivity,true
+synthetic-00228,"As a gift, the package is late; delivery took longer than promised. The experience was different from what I expected.",delivery,true
+synthetic-00231,"Compared with my old one, the parcel is confusing; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00274,"In daily use, the package is quick; tracking updates were useful. It was the deciding factor for me.",delivery,true
+synthetic-00051,"In daily use, the earbuds is crisp; the bass is surprisingly good. It was the deciding factor for me.",audio_quality,true
+synthetic-00538,"Honestly, the support team is slow; I had to repeat the problem twice. This is the part I noticed most often.",customer_support,true
+synthetic-00057,"For the price, the speaker is balanced; music sounds detailed. That detail mattered more than I expected.",audio_quality,true
+synthetic-00282,"Overall, the package is confusing; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00264,"Overall, the package is careful; tracking updates were useful. The experience was different from what I expected.",delivery,true
+synthetic-00032,"Honestly, the headphones is clear; the bass is surprisingly good. That detail mattered more than I expected.",audio_quality,true
+synthetic-00283,"After a week, the package is careful; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00251,"So far, the package is quick; the box arrived in good condition. This is the part I noticed most often.",delivery,true
+synthetic-00182,"Compared with my old one, the headphones is disappointing; it lasts through my commute. This is the part I noticed most often.",battery,true
+synthetic-00495,"Honestly, the phone connection is quick; the signal drops in another room. This is the part I noticed most often.",connectivity,true
+synthetic-00169,"After a week, the headphones is short; the battery indicator is helpful. This is the part I noticed most often.",battery,true
+synthetic-00512,"Honestly, the help desk is professional; I had to repeat the problem twice. It was the deciding factor for me.",customer_support,true
+synthetic-00477,"Overall, the phone connection is stable; pairing took only a few seconds. It was the deciding factor for me.",connectivity,true
+synthetic-00184,"In daily use, the earbuds is disappointing; it lasts through my commute. The experience was different from what I expected.",battery,true
+synthetic-00104,"In daily use, the earbuds is excellent; the battery indicator is helpful. I would consider buying it again.",battery,true
+synthetic-00577,"After a week, the help desk is helpful; the replacement process was clear. This is the part I noticed most often.",customer_support,true
+synthetic-00278,"As a gift, the order is confusing; delivery took longer than promised. It was the deciding factor for me.",delivery,true
+synthetic-00487,"After a week, the Bluetooth connection is frustrating; the signal drops in another room. It was the deciding factor for me.",connectivity,true
+synthetic-00304,"So far, the headset is tight; the ear cushions need improvement. The experience was different from what I expected.",comfort,true
+synthetic-00326,"So far, the headphones is lightweight; I can wear it for hours. This is the part I noticed most often.",comfort,true
+synthetic-00132,"For the price, the portable speaker is reliable; the battery indicator is helpful. The experience was different from what I expected.",battery,true
+synthetic-00562,"Honestly, the help desk is slow; I had to repeat the problem twice. This is the part I noticed most often.",customer_support,true
+synthetic-00186,"After a week, the headphones is reliable; the battery indicator is helpful. This is the part I noticed most often.",battery,true
+synthetic-00476,"Overall, the Bluetooth connection is stable; pairing took only a few seconds. It was the deciding factor for me.",connectivity,true
+synthetic-00179,"Compared with my old one, the earbuds is reliable; I have to charge it every evening. This is the part I noticed most often.",battery,true
+synthetic-00412,"As a gift, the phone connection is quick; pairing took only a few seconds. The experience was different from what I expected.",connectivity,true
+synthetic-00205,"So far, the parcel is confusing; the box arrived in good condition. The experience was different from what I expected.",delivery,true
+synthetic-00056,"So far, the headphones is clear; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00011,"For the price, the earbuds is balanced; podcasts are easy to hear. I would consider buying it again.",audio_quality,true
+synthetic-00450,"Overall, the wireless pairing is quick; the signal drops in another room. This is the part I noticed most often.",connectivity,true
+synthetic-00286,"Compared with my old one, the parcel is late; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00176,"Honestly, the portable speaker is excellent; the battery indicator is helpful. The experience was different from what I expected.",battery,true
+synthetic-00443,"In daily use, the phone connection is frustrating; the signal drops in another room. I would consider buying it again.",connectivity,true
+synthetic-00241,"Compared with my old one, the package is careful; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00419,"For the price, the phone connection is unreliable; pairing took only a few seconds. That detail mattered more than I expected.",connectivity,true
+synthetic-00423,"As a gift, the wireless pairing is frustrating; switching devices is straightforward. This is the part I noticed most often.",connectivity,true
+synthetic-00119,"Overall, the headphones is excellent; I have to charge it every evening. I would consider buying it again.",battery,true
+synthetic-00252,"In daily use, the parcel is quick; the box arrived in good condition. The experience was different from what I expected.",delivery,true
+synthetic-00229,"Overall, the order is quick; the box arrived in good condition. This is the part I noticed most often.",delivery,true
+synthetic-00542,"For the price, the help desk is slow; I had to repeat the problem twice. That detail mattered more than I expected.",customer_support,true
+synthetic-00288,"As a gift, the package is careful; delivery took longer than promised. The experience was different from what I expected.",delivery,true
+synthetic-00340,"After a week, the headset is tight; it fits well during a workout. This is the part I noticed most often.",comfort,true
+synthetic-00404,"Overall, the wireless pairing is stable; the signal drops in another room. The experience was different from what I expected.",connectivity,true
+synthetic-00544,"Compared with my old one, the service agent is professional; I had to repeat the problem twice. It was the deciding factor for me.",customer_support,true
+synthetic-00222,"For the price, the order is late; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00498,"After a week, the Bluetooth connection is unreliable; switching devices is straightforward. I would consider buying it again.",connectivity,true
+synthetic-00203,"So far, the parcel is late; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00594,"Compared with my old one, the support team is slow; the replacement process was clear. The experience was different from what I expected.",customer_support,true
+synthetic-00511,"In daily use, the help desk is slow; my issue was resolved on the first call. The experience was different from what I expected.",customer_support,true
+synthetic-00293,"Compared with my old one, the order is careful; tracking updates were useful. That detail mattered more than I expected.",delivery,true
+synthetic-00554,"So far, the support team is unresponsive; the replacement process was clear. The experience was different from what I expected.",customer_support,true
+synthetic-00273,"As a gift, the package is late; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00368,"After a week, the headphones is comfortable; it fits well during a workout. It was the deciding factor for me.",comfort,true
+synthetic-00479,"Compared with my old one, the Bluetooth connection is quick; pairing took only a few seconds. The experience was different from what I expected.",connectivity,true
+synthetic-00584,"In daily use, the support team is unresponsive; my issue was resolved on the first call. It was the deciding factor for me.",customer_support,true
+synthetic-00270,"Overall, the order is late; the box arrived in good condition. The experience was different from what I expected.",delivery,true
+synthetic-00070,"So far, the headphones is rich; podcasts are easy to hear. This is the part I noticed most often.",audio_quality,true
+synthetic-00116,"In daily use, the portable speaker is short; I have to charge it every evening. This is the part I noticed most often.",battery,true
+synthetic-00082,"Compared with my old one, the headphones is balanced; the bass is surprisingly good. This is the part I noticed most often.",audio_quality,true
+synthetic-00373,"Honestly, the headset is comfortable; it fits well during a workout. This is the part I noticed most often.",comfort,true
+synthetic-00453,"For the price, the wireless pairing is quick; switching devices is straightforward. This is the part I noticed most often.",connectivity,true
+synthetic-00361,"Overall, the earbuds is lightweight; it fits well during a workout. I would consider buying it again.",comfort,true
+synthetic-00221,"In daily use, the package is careful; tracking updates were useful. The experience was different from what I expected.",delivery,true
+synthetic-00376,"After a week, the earbuds is lightweight; the ear cushions need improvement. The experience was different from what I expected.",comfort,true
+synthetic-00319,"After a week, the headphones is stiff; I can wear it for hours. That detail mattered more than I expected.",comfort,true
+synthetic-00067,"Honestly, the speaker is clear; podcasts are easy to hear. I would consider buying it again.",audio_quality,true
+synthetic-00075,"After a week, the headphones is rich; podcasts are easy to hear. It was the deciding factor for me.",audio_quality,true
+synthetic-00248,"Overall, the package is quick; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00371,"For the price, the headphones is comfortable; I can wear it for hours. It was the deciding factor for me.",comfort,true
+synthetic-00543,"Compared with my old one, the service agent is helpful; I had to repeat the problem twice. The experience was different from what I expected.",customer_support,true
+synthetic-00482,"As a gift, the Bluetooth connection is unreliable; switching devices is straightforward. The experience was different from what I expected.",connectivity,true
+synthetic-00245,"In daily use, the parcel is late; delivery took longer than promised. That detail mattered more than I expected.",delivery,true
+synthetic-00457,"So far, the phone connection is stable; switching devices is straightforward. The experience was different from what I expected.",connectivity,true
+synthetic-00483,"As a gift, the wireless pairing is stable; the signal drops in another room. The experience was different from what I expected.",connectivity,true
+synthetic-00020,"So far, the speaker is crisp; the bass is surprisingly good. That detail mattered more than I expected.",audio_quality,true
+synthetic-00267,"For the price, the parcel is careful; the box arrived in good condition. The experience was different from what I expected.",delivery,true
+synthetic-00263,"For the price, the package is quick; tracking updates were useful. It was the deciding factor for me.",delivery,true
+synthetic-00295,"For the price, the order is late; tracking updates were useful. That detail mattered more than I expected.",delivery,true
+synthetic-00409,"Overall, the Bluetooth connection is frustrating; switching devices is straightforward. I would consider buying it again.",connectivity,true
+synthetic-00130,"As a gift, the portable speaker is excellent; I have to charge it every evening. It was the deciding factor for me.",battery,true
+synthetic-00025,"So far, the headphones is crisp; the bass is surprisingly good. The experience was different from what I expected.",audio_quality,true
+synthetic-00149,"In daily use, the headphones is excellent; the battery indicator is helpful. This is the part I noticed most often.",battery,true
+synthetic-00022,"In daily use, the earbuds is crisp; the bass is surprisingly good. That detail mattered more than I expected.",audio_quality,true
+synthetic-00192,"After a week, the headphones is disappointing; the battery indicator is helpful. It was the deciding factor for me.",battery,true
+synthetic-00118,"After a week, the portable speaker is disappointing; the battery indicator is helpful. It was the deciding factor for me.",battery,true
+synthetic-00578,"For the price, the support team is slow; I had to repeat the problem twice. That detail mattered more than I expected.",customer_support,true
+synthetic-00237,"Compared with my old one, the package is confusing; the box arrived in good condition. The experience was different from what I expected.",delivery,true
+synthetic-00472,"So far, the Bluetooth connection is stable; the signal drops in another room. The experience was different from what I expected.",connectivity,true
+synthetic-00573,"For the price, the service agent is slow; I had to repeat the problem twice. This is the part I noticed most often.",customer_support,true
+synthetic-00567,"After a week, the help desk is slow; the replacement process was clear. This is the part I noticed most often.",customer_support,true
+synthetic-00590,"Compared with my old one, the support team is professional; the replacement process was clear. The experience was different from what I expected.",customer_support,true
+synthetic-00230,"Compared with my old one, the parcel is quick; the box arrived in good condition. This is the part I noticed most often.",delivery,true
+synthetic-00315,"Honestly, the earbuds is comfortable; the ear cushions need improvement. That detail mattered more than I expected.",comfort,true
+synthetic-00236,"In daily use, the order is quick; tracking updates were useful. The experience was different from what I expected.",delivery,true
+synthetic-00012,"For the price, the speaker is balanced; the bass is surprisingly good. That detail mattered more than I expected.",audio_quality,true
+synthetic-00588,"Honestly, the service agent is slow; the replacement process was clear. That detail mattered more than I expected.",customer_support,true
+synthetic-00556,"In daily use, the help desk is helpful; my issue was resolved on the first call. This is the part I noticed most often.",customer_support,true
+synthetic-00183,"Overall, the earbuds is excellent; I have to charge it every evening. The experience was different from what I expected.",battery,true
+synthetic-00428,"Honestly, the wireless pairing is frustrating; the signal drops in another room. This is the part I noticed most often.",connectivity,true
+synthetic-00451,"In daily use, the phone connection is quick; switching devices is straightforward. I would consider buying it again.",connectivity,true
+synthetic-00447,"As a gift, the phone connection is quick; pairing took only a few seconds. I would consider buying it again.",connectivity,true
+synthetic-00108,"So far, the portable speaker is reliable; the battery indicator is helpful. That detail mattered more than I expected.",battery,true
+synthetic-00339,"Overall, the headphones is stiff; it fits well during a workout. The experience was different from what I expected.",comfort,true
+synthetic-00523,"After a week, the service agent is professional; I had to repeat the problem twice. I would consider buying it again.",customer_support,true
+synthetic-00317,"Honestly, the headphones is tight; I can wear it for hours. I would consider buying it again.",comfort,true
+synthetic-00585,"So far, the help desk is unresponsive; I had to repeat the problem twice. It was the deciding factor for me.",customer_support,true
+synthetic-00387,"Overall, the headphones is comfortable; I can wear it for hours. The experience was different from what I expected.",comfort,true
+synthetic-00306,"After a week, the headset is comfortable; it fits well during a workout. I would consider buying it again.",comfort,true
+synthetic-00334,"After a week, the earbuds is stiff; it fits well during a workout. It was the deciding factor for me.",comfort,true
+synthetic-00218,"Compared with my old one, the package is late; the box arrived in good condition. The experience was different from what I expected.",delivery,true
+synthetic-00193,"Honestly, the headphones is short; it lasts through my commute. It was the deciding factor for me.",battery,true
+synthetic-00555,"Overall, the service agent is unresponsive; the replacement process was clear. This is the part I noticed most often.",customer_support,true
+synthetic-00355,"So far, the earbuds is lightweight; I can wear it for hours. It was the deciding factor for me.",comfort,true
+synthetic-00389,"Honestly, the headset is comfortable; the ear cushions need improvement. This is the part I noticed most often.",comfort,true
+synthetic-00504,"Overall, the support team is helpful; the replacement process was clear. I would consider buying it again.",customer_support,true
+synthetic-00120,"So far, the portable speaker is disappointing; it lasts through my commute. That detail mattered more than I expected.",battery,true
+synthetic-00013,"So far, the headphones is crisp; the bass is surprisingly good. This is the part I noticed most often.",audio_quality,true
+synthetic-00210,"In daily use, the order is confusing; tracking updates were useful. The experience was different from what I expected.",delivery,true
+synthetic-00004,"Overall, the headphones is balanced; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00533,"So far, the support team is slow; I had to repeat the problem twice. The experience was different from what I expected.",customer_support,true
+synthetic-00309,"Compared with my old one, the headset is comfortable; it fits well during a workout. I would consider buying it again.",comfort,true
+synthetic-00101,"In daily use, the headphones is disappointing; I have to charge it every evening. It was the deciding factor for me.",battery,true
+synthetic-00253,"Overall, the package is careful; the box arrived in good condition. I would consider buying it again.",delivery,true
+synthetic-00379,"So far, the earbuds is comfortable; the ear cushions need improvement. The experience was different from what I expected.",comfort,true
+synthetic-00238,"For the price, the order is late; the box arrived in good condition. It was the deciding factor for me.",delivery,true
+synthetic-00125,"In daily use, the portable speaker is excellent; it lasts through my commute. That detail mattered more than I expected.",battery,true
+synthetic-00156,"After a week, the earbuds is disappointing; I have to charge it every evening. I would consider buying it again.",battery,true
+synthetic-00150,"In daily use, the headphones is short; it lasts through my commute. It was the deciding factor for me.",battery,true
+synthetic-00103,"After a week, the headphones is disappointing; it lasts through my commute. The experience was different from what I expected.",battery,true
+synthetic-00320,"So far, the headset is tight; it fits well during a workout. I would consider buying it again.",comfort,true
+synthetic-00499,"After a week, the wireless pairing is frustrating; the signal drops in another room. That detail mattered more than I expected.",connectivity,true
+synthetic-00430,"For the price, the wireless pairing is stable; the signal drops in another room. This is the part I noticed most often.",connectivity,true
+synthetic-00364,"As a gift, the headphones is lightweight; the ear cushions need improvement. The experience was different from what I expected.",comfort,true
+synthetic-00587,"Honestly, the help desk is helpful; my issue was resolved on the first call. I would consider buying it again.",customer_support,true
+synthetic-00160,"In daily use, the portable speaker is disappointing; the battery indicator is helpful. The experience was different from what I expected.",battery,true
+synthetic-00145,"Honestly, the earbuds is excellent; it lasts through my commute. That detail mattered more than I expected.",battery,true
+synthetic-00239,"Overall, the parcel is confusing; the box arrived in good condition. This is the part I noticed most often.",delivery,true
+synthetic-00599,"After a week, the service agent is helpful; I had to repeat the problem twice. That detail mattered more than I expected.",customer_support,true
+synthetic-00510,"For the price, the help desk is unresponsive; my issue was resolved on the first call. I would consider buying it again.",customer_support,true
+synthetic-00480,"Honestly, the phone connection is quick; pairing took only a few seconds. That detail mattered more than I expected.",connectivity,true
+synthetic-00345,"For the price, the earbuds is comfortable; the ear cushions need improvement. This is the part I noticed most often.",comfort,true
+synthetic-00299,"So far, the order is quick; the box arrived in good condition. This is the part I noticed most often.",delivery,true
+synthetic-00303,"Overall, the headset is stiff; the ear cushions need improvement. It was the deciding factor for me.",comfort,true
+synthetic-00027,"Honestly, the earbuds is rich; music sounds detailed. It was the deciding factor for me.",audio_quality,true
+synthetic-00258,"For the price, the parcel is confusing; tracking updates were useful. The experience was different from what I expected.",delivery,true
+synthetic-00353,"Compared with my old one, the earbuds is comfortable; it fits well during a workout. This is the part I noticed most often.",comfort,true
+synthetic-00356,"As a gift, the earbuds is lightweight; I can wear it for hours. I would consider buying it again.",comfort,true
+synthetic-00505,"In daily use, the service agent is slow; the replacement process was clear. I would consider buying it again.",customer_support,true
+synthetic-00139,"As a gift, the earbuds is short; I have to charge it every evening. This is the part I noticed most often.",battery,true
+synthetic-00164,"In daily use, the portable speaker is excellent; it lasts through my commute. That detail mattered more than I expected.",battery,true
+synthetic-00214,"Overall, the order is careful; delivery took longer than promised. It was the deciding factor for me.",delivery,true
+synthetic-00593,"So far, the service agent is professional; my issue was resolved on the first call. I would consider buying it again.",customer_support,true
+synthetic-00165,"Overall, the portable speaker is excellent; it lasts through my commute. It was the deciding factor for me.",battery,true
+synthetic-00115,"As a gift, the headphones is reliable; I have to charge it every evening. It was the deciding factor for me.",battery,true
+synthetic-00215,"So far, the order is late; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00462,"As a gift, the wireless pairing is unreliable; switching devices is straightforward. It was the deciding factor for me.",connectivity,true
+synthetic-00019,"Compared with my old one, the headphones is balanced; podcasts are easy to hear. That detail mattered more than I expected.",audio_quality,true
+synthetic-00518,"In daily use, the support team is helpful; my issue was resolved on the first call. The experience was different from what I expected.",customer_support,true
+synthetic-00077,"In daily use, the earbuds is balanced; podcasts are easy to hear. I would consider buying it again.",audio_quality,true
+synthetic-00473,"In daily use, the wireless pairing is frustrating; pairing took only a few seconds. It was the deciding factor for me.",connectivity,true
+synthetic-00187,"Overall, the earbuds is disappointing; it lasts through my commute. The experience was different from what I expected.",battery,true
+synthetic-00414,"Honestly, the phone connection is frustrating; switching devices is straightforward. It was the deciding factor for me.",connectivity,true
+synthetic-00024,"As a gift, the headphones is balanced; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00529,"Honestly, the help desk is helpful; my issue was resolved on the first call. That detail mattered more than I expected.",customer_support,true
+synthetic-00485,"So far, the wireless pairing is unreliable; switching devices is straightforward. That detail mattered more than I expected.",connectivity,true
+synthetic-00023,"Overall, the speaker is crisp; music sounds detailed. I would consider buying it again.",audio_quality,true
+synthetic-00535,"Compared with my old one, the service agent is helpful; the replacement process was clear. It was the deciding factor for me.",customer_support,true
+synthetic-00445,"Compared with my old one, the phone connection is unreliable; pairing took only a few seconds. This is the part I noticed most often.",connectivity,true
+synthetic-00117,"As a gift, the earbuds is disappointing; it lasts through my commute. This is the part I noticed most often.",battery,true
+synthetic-00362,"After a week, the headset is stiff; the ear cushions need improvement. I would consider buying it again.",comfort,true
+synthetic-00294,"In daily use, the package is quick; delivery took longer than promised. This is the part I noticed most often.",delivery,true
+synthetic-00053,"As a gift, the earbuds is crisp; the bass is surprisingly good. The experience was different from what I expected.",audio_quality,true
+synthetic-00131,"In daily use, the portable speaker is short; it lasts through my commute. I would consider buying it again.",battery,true
+synthetic-00081,"Overall, the headphones is clear; the bass is surprisingly good. It was the deciding factor for me.",audio_quality,true
+synthetic-00189,"For the price, the earbuds is excellent; it lasts through my commute. It was the deciding factor for me.",battery,true
+synthetic-00343,"Overall, the earbuds is comfortable; it fits well during a workout. It was the deciding factor for me.",comfort,true
+synthetic-00570,"As a gift, the support team is slow; I had to repeat the problem twice. It was the deciding factor for me.",customer_support,true
+synthetic-00431,"So far, the wireless pairing is quick; switching devices is straightforward. That detail mattered more than I expected.",connectivity,true
+synthetic-00369,"For the price, the headset is stiff; it fits well during a workout. This is the part I noticed most often.",comfort,true
+synthetic-00595,"After a week, the help desk is unresponsive; my issue was resolved on the first call. That detail mattered more than I expected.",customer_support,true
+synthetic-00382,"In daily use, the headphones is tight; the ear cushions need improvement. This is the part I noticed most often.",comfort,true
+synthetic-00234,"Honestly, the parcel is confusing; delivery took longer than promised. It was the deciding factor for me.",delivery,true
+synthetic-00348,"So far, the headset is stiff; it fits well during a workout. That detail mattered more than I expected.",comfort,true
+synthetic-00040,"For the price, the headphones is clear; music sounds detailed. I would consider buying it again.",audio_quality,true
+synthetic-00400,"So far, the headphones is comfortable; the ear cushions need improvement. That detail mattered more than I expected.",comfort,true
+synthetic-00296,"After a week, the order is late; tracking updates were useful. I would consider buying it again.",delivery,true
+synthetic-00437,"Compared with my old one, the phone connection is unreliable; the signal drops in another room. This is the part I noticed most often.",connectivity,true
+synthetic-00033,"For the price, the headphones is balanced; podcasts are easy to hear. I would consider buying it again.",audio_quality,true
+synthetic-00269,"Compared with my old one, the package is careful; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00140,"After a week, the headphones is disappointing; I have to charge it every evening. It was the deciding factor for me.",battery,true
+synthetic-00488,"Compared with my old one, the Bluetooth connection is quick; pairing took only a few seconds. I would consider buying it again.",connectivity,true
+synthetic-00172,"As a gift, the portable speaker is reliable; the battery indicator is helpful. This is the part I noticed most often.",battery,true
+synthetic-00016,"So far, the speaker is balanced; music sounds detailed. It was the deciding factor for me.",audio_quality,true
+synthetic-00061,"Honestly, the headphones is rich; music sounds detailed. It was the deciding factor for me.",audio_quality,true
+synthetic-00138,"For the price, the earbuds is reliable; it lasts through my commute. This is the part I noticed most often.",battery,true
+synthetic-00579,"As a gift, the service agent is slow; the replacement process was clear. It was the deciding factor for me.",customer_support,true
+synthetic-00191,"So far, the portable speaker is reliable; I have to charge it every evening. It was the deciding factor for me.",battery,true
+synthetic-00086,"Honestly, the headphones is rich; music sounds detailed. I would consider buying it again.",audio_quality,true
+synthetic-00133,"As a gift, the headphones is reliable; the battery indicator is helpful. This is the part I noticed most often.",battery,true
+synthetic-00265,"For the price, the parcel is careful; delivery took longer than promised. It was the deciding factor for me.",delivery,true
+synthetic-00268,"So far, the parcel is late; tracking updates were useful. That detail mattered more than I expected.",delivery,true
+synthetic-00178,"So far, the headphones is disappointing; the battery indicator is helpful. I would consider buying it again.",battery,true
+synthetic-00255,"For the price, the parcel is confusing; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00084,"Honestly, the earbuds is rich; music sounds detailed. This is the part I noticed most often.",audio_quality,true
+synthetic-00006,"As a gift, the earbuds is clear; music sounds detailed. This is the part I noticed most often.",audio_quality,true
+synthetic-00071,"As a gift, the headphones is clear; podcasts are easy to hear. This is the part I noticed most often.",audio_quality,true
+synthetic-00426,"Honestly, the Bluetooth connection is quick; switching devices is straightforward. That detail mattered more than I expected.",connectivity,true
+synthetic-00062,"Compared with my old one, the headphones is rich; the bass is surprisingly good. I would consider buying it again.",audio_quality,true
+synthetic-00090,"Compared with my old one, the earbuds is clear; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00337,"For the price, the earbuds is tight; the ear cushions need improvement. I would consider buying it again.",comfort,true
+synthetic-00342,"For the price, the headset is stiff; I can wear it for hours. The experience was different from what I expected.",comfort,true
+synthetic-00459,"After a week, the phone connection is unreliable; switching devices is straightforward. That detail mattered more than I expected.",connectivity,true
+synthetic-00029,"Honestly, the headphones is clear; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00458,"For the price, the phone connection is quick; pairing took only a few seconds. I would consider buying it again.",connectivity,true
+synthetic-00314,"As a gift, the headphones is comfortable; it fits well during a workout. The experience was different from what I expected.",comfort,true
+synthetic-00233,"In daily use, the parcel is careful; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00060,"Compared with my old one, the headphones is crisp; podcasts are easy to hear. This is the part I noticed most often.",audio_quality,true
+synthetic-00223,"Compared with my old one, the order is confusing; tracking updates were useful. That detail mattered more than I expected.",delivery,true
+synthetic-00481,"Honestly, the phone connection is unreliable; the signal drops in another room. This is the part I noticed most often.",connectivity,true
+synthetic-00126,"After a week, the headphones is short; it lasts through my commute. It was the deciding factor for me.",battery,true
+synthetic-00030,"Compared with my old one, the speaker is balanced; music sounds detailed. That detail mattered more than I expected.",audio_quality,true
+synthetic-00436,"So far, the phone connection is unreliable; the signal drops in another room. It was the deciding factor for me.",connectivity,true
+synthetic-00576,"After a week, the service agent is unresponsive; the replacement process was clear. This is the part I noticed most often.",customer_support,true
+synthetic-00358,"Honestly, the headphones is comfortable; the ear cushions need improvement. This is the part I noticed most often.",comfort,true
+synthetic-00522,"In daily use, the service agent is slow; the replacement process was clear. The experience was different from what I expected.",customer_support,true
+synthetic-00034,"After a week, the speaker is crisp; music sounds detailed. That detail mattered more than I expected.",audio_quality,true
+synthetic-00330,"Overall, the earbuds is comfortable; the ear cushions need improvement. It was the deciding factor for me.",comfort,true
+synthetic-00349,"So far, the headphones is comfortable; it fits well during a workout. I would consider buying it again.",comfort,true
+synthetic-00566,"After a week, the service agent is helpful; the replacement process was clear. That detail mattered more than I expected.",customer_support,true
+synthetic-00325,"In daily use, the headset is stiff; I can wear it for hours. The experience was different from what I expected.",comfort,true
+synthetic-00410,"Compared with my old one, the Bluetooth connection is unreliable; switching devices is straightforward. It was the deciding factor for me.",connectivity,true
+synthetic-00442,"So far, the wireless pairing is frustrating; switching devices is straightforward. That detail mattered more than I expected.",connectivity,true
+synthetic-00168,"In daily use, the portable speaker is short; I have to charge it every evening. It was the deciding factor for me.",battery,true
+synthetic-00390,"As a gift, the earbuds is tight; it fits well during a workout. This is the part I noticed most often.",comfort,true
+synthetic-00532,"For the price, the service agent is professional; I had to repeat the problem twice. That detail mattered more than I expected.",customer_support,true
+synthetic-00517,"Compared with my old one, the support team is unresponsive; I had to repeat the problem twice. The experience was different from what I expected.",customer_support,true
+synthetic-00262,"After a week, the parcel is careful; the box arrived in good condition. It was the deciding factor for me.",delivery,true
+synthetic-00041,"In daily use, the earbuds is clear; podcasts are easy to hear. This is the part I noticed most often.",audio_quality,true
+synthetic-00159,"In daily use, the headphones is reliable; it lasts through my commute. I would consider buying it again.",battery,true
+synthetic-00392,"So far, the earbuds is stiff; the ear cushions need improvement. That detail mattered more than I expected.",comfort,true
+synthetic-00143,"As a gift, the headphones is excellent; it lasts through my commute. It was the deciding factor for me.",battery,true
+synthetic-00079,"Overall, the headphones is balanced; the bass is surprisingly good. That detail mattered more than I expected.",audio_quality,true
+synthetic-00486,"After a week, the Bluetooth connection is quick; switching devices is straightforward. It was the deciding factor for me.",connectivity,true
+synthetic-00596,"Compared with my old one, the support team is helpful; the replacement process was clear. The experience was different from what I expected.",customer_support,true
+synthetic-00572,"After a week, the help desk is helpful; the replacement process was clear. This is the part I noticed most often.",customer_support,true
+synthetic-00328,"So far, the headphones is tight; the ear cushions need improvement. The experience was different from what I expected.",comfort,true
+synthetic-00043,"So far, the speaker is crisp; music sounds detailed. It was the deciding factor for me.",audio_quality,true
+synthetic-00206,"Honestly, the package is quick; tracking updates were useful. That detail mattered more than I expected.",delivery,true
+synthetic-00360,"Compared with my old one, the earbuds is comfortable; it fits well during a workout. The experience was different from what I expected.",comfort,true
+synthetic-00574,"Compared with my old one, the help desk is unresponsive; the replacement process was clear. The experience was different from what I expected.",customer_support,true
+synthetic-00213,"So far, the parcel is late; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00519,"For the price, the service agent is professional; my issue was resolved on the first call. This is the part I noticed most often.",customer_support,true
+synthetic-00546,"Compared with my old one, the help desk is slow; I had to repeat the problem twice. That detail mattered more than I expected.",customer_support,true
+synthetic-00365,"So far, the headphones is tight; it fits well during a workout. This is the part I noticed most often.",comfort,true
+synthetic-00491,"In daily use, the Bluetooth connection is unreliable; the signal drops in another room. This is the part I noticed most often.",connectivity,true
+synthetic-00147,"Compared with my old one, the portable speaker is reliable; I have to charge it every evening. This is the part I noticed most often.",battery,true
+synthetic-00260,"As a gift, the order is careful; the box arrived in good condition. It was the deciding factor for me.",delivery,true
+synthetic-00204,"For the price, the order is confusing; delivery took longer than promised. This is the part I noticed most often.",delivery,true
+synthetic-00031,"Compared with my old one, the speaker is clear; podcasts are easy to hear. It was the deciding factor for me.",audio_quality,true
+synthetic-00021,"Honestly, the earbuds is balanced; music sounds detailed. The experience was different from what I expected.",audio_quality,true
+synthetic-00111,"After a week, the headphones is short; I have to charge it every evening. That detail mattered more than I expected.",battery,true
+synthetic-00135,"So far, the headphones is disappointing; I have to charge it every evening. That detail mattered more than I expected.",battery,true
+synthetic-00008,"Compared with my old one, the headphones is crisp; music sounds detailed. This is the part I noticed most often.",audio_quality,true
+synthetic-00035,"After a week, the speaker is crisp; podcasts are easy to hear. This is the part I noticed most often.",audio_quality,true
+synthetic-00301,"Overall, the earbuds is stiff; I can wear it for hours. This is the part I noticed most often.",comfort,true
+synthetic-00527,"After a week, the service agent is unresponsive; I had to repeat the problem twice. The experience was different from what I expected.",customer_support,true
+synthetic-00038,"Compared with my old one, the headphones is balanced; music sounds detailed. I would consider buying it again.",audio_quality,true
+synthetic-00395,"Honestly, the headphones is stiff; I can wear it for hours. It was the deciding factor for me.",comfort,true
+synthetic-00242,"For the price, the order is careful; tracking updates were useful. It was the deciding factor for me.",delivery,true
+synthetic-00391,"Overall, the earbuds is comfortable; it fits well during a workout. That detail mattered more than I expected.",comfort,true
+synthetic-00089,"In daily use, the headphones is crisp; music sounds detailed. This is the part I noticed most often.",audio_quality,true
+synthetic-00350,"In daily use, the earbuds is tight; I can wear it for hours. I would consider buying it again.",comfort,true
+synthetic-00280,"As a gift, the parcel is quick; the box arrived in good condition. I would consider buying it again.",delivery,true
+synthetic-00188,"Overall, the headphones is short; I have to charge it every evening. The experience was different from what I expected.",battery,true
+synthetic-00216,"As a gift, the parcel is careful; delivery took longer than promised. This is the part I noticed most often.",delivery,true
+synthetic-00292,"For the price, the parcel is confusing; delivery took longer than promised. It was the deciding factor for me.",delivery,true
+synthetic-00199,"As a gift, the portable speaker is disappointing; the battery indicator is helpful. It was the deciding factor for me.",battery,true
+synthetic-00068,"For the price, the headphones is rich; music sounds detailed. The experience was different from what I expected.",audio_quality,true
+synthetic-00550,"Overall, the help desk is slow; the replacement process was clear. It was the deciding factor for me.",customer_support,true
+synthetic-00185,"So far, the earbuds is disappointing; the battery indicator is helpful. I would consider buying it again.",battery,true
+synthetic-00007,"Compared with my old one, the earbuds is balanced; music sounds detailed. I would consider buying it again.",audio_quality,true
+synthetic-00271,"After a week, the parcel is careful; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00037,"So far, the earbuds is rich; the bass is surprisingly good. I would consider buying it again.",audio_quality,true
+synthetic-00305,"For the price, the headphones is comfortable; the ear cushions need improvement. This is the part I noticed most often.",comfort,true
+synthetic-00327,"For the price, the headset is comfortable; it fits well during a workout. This is the part I noticed most often.",comfort,true
+synthetic-00256,"After a week, the parcel is late; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00525,"As a gift, the support team is helpful; I had to repeat the problem twice. This is the part I noticed most often.",customer_support,true
+synthetic-00058,"In daily use, the headphones is clear; podcasts are easy to hear. It was the deciding factor for me.",audio_quality,true
+synthetic-00198,"Overall, the earbuds is short; I have to charge it every evening. This is the part I noticed most often.",battery,true
+synthetic-00254,"For the price, the order is confusing; the box arrived in good condition. It was the deciding factor for me.",delivery,true
+synthetic-00123,"So far, the earbuds is reliable; it lasts through my commute. I would consider buying it again.",battery,true
+synthetic-00407,"For the price, the phone connection is stable; pairing took only a few seconds. It was the deciding factor for me.",connectivity,true
+synthetic-00402,"Overall, the wireless pairing is frustrating; the signal drops in another room. I would consider buying it again.",connectivity,true
+synthetic-00028,"Honestly, the headphones is crisp; music sounds detailed. The experience was different from what I expected.",audio_quality,true
+synthetic-00465,"For the price, the phone connection is unreliable; switching devices is straightforward. I would consider buying it again.",connectivity,true
+synthetic-00152,"Honestly, the headphones is reliable; it lasts through my commute. I would consider buying it again.",battery,true
+synthetic-00201,"So far, the parcel is careful; tracking updates were useful. I would consider buying it again.",delivery,true
+synthetic-00383,"Honestly, the headset is lightweight; I can wear it for hours. That detail mattered more than I expected.",comfort,true
+synthetic-00097,"So far, the speaker is balanced; podcasts are easy to hear. That detail mattered more than I expected.",audio_quality,true
+synthetic-00261,"As a gift, the parcel is quick; the box arrived in good condition. This is the part I noticed most often.",delivery,true
+synthetic-00311,"For the price, the earbuds is tight; the ear cushions need improvement. The experience was different from what I expected.",comfort,true
+synthetic-00266,"Overall, the order is confusing; delivery took longer than promised. This is the part I noticed most often.",delivery,true
+synthetic-00516,"Overall, the service agent is helpful; the replacement process was clear. That detail mattered more than I expected.",customer_support,true
+synthetic-00155,"Honestly, the headphones is excellent; the battery indicator is helpful. It was the deciding factor for me.",battery,true
+synthetic-00449,"In daily use, the Bluetooth connection is quick; the signal drops in another room. It was the deciding factor for me.",connectivity,true
+synthetic-00338,"So far, the headphones is stiff; it fits well during a workout. I would consider buying it again.",comfort,true
+synthetic-00434,"For the price, the Bluetooth connection is unreliable; pairing took only a few seconds. It was the deciding factor for me.",connectivity,true
+synthetic-00435,"After a week, the wireless pairing is frustrating; pairing took only a few seconds. I would consider buying it again.",connectivity,true
+synthetic-00014,"In daily use, the headphones is rich; the bass is surprisingly good. This is the part I noticed most often.",audio_quality,true
+synthetic-00354,"As a gift, the headphones is lightweight; the ear cushions need improvement. It was the deciding factor for me.",comfort,true
+synthetic-00399,"Honestly, the headset is stiff; the ear cushions need improvement. It was the deciding factor for me.",comfort,true
+synthetic-00598,"For the price, the help desk is professional; the replacement process was clear. That detail mattered more than I expected.",customer_support,true
+synthetic-00312,"Honestly, the headset is tight; the ear cushions need improvement. It was the deciding factor for me.",comfort,true
+synthetic-00493,"In daily use, the phone connection is frustrating; pairing took only a few seconds. It was the deciding factor for me.",connectivity,true
+synthetic-00461,"So far, the wireless pairing is stable; switching devices is straightforward. I would consider buying it again.",connectivity,true
+synthetic-00308,"As a gift, the earbuds is lightweight; the ear cushions need improvement. This is the part I noticed most often.",comfort,true
+synthetic-00284,"Overall, the order is careful; tracking updates were useful. It was the deciding factor for me.",delivery,true
+synthetic-00559,"Compared with my old one, the support team is slow; I had to repeat the problem twice. It was the deciding factor for me.",customer_support,true
+synthetic-00044,"As a gift, the headphones is clear; music sounds detailed. This is the part I noticed most often.",audio_quality,true
+synthetic-00571,"Honestly, the support team is slow; my issue was resolved on the first call. I would consider buying it again.",customer_support,true
+synthetic-00142,"Overall, the portable speaker is reliable; the battery indicator is helpful. The experience was different from what I expected.",battery,true
+synthetic-00127,"In daily use, the portable speaker is excellent; the battery indicator is helpful. It was the deciding factor for me.",battery,true
+synthetic-00478,"In daily use, the wireless pairing is unreliable; switching devices is straightforward. I would consider buying it again.",connectivity,true
+synthetic-00541,"So far, the service agent is professional; my issue was resolved on the first call. The experience was different from what I expected.",customer_support,true
+synthetic-00558,"For the price, the service agent is helpful; my issue was resolved on the first call. This is the part I noticed most often.",customer_support,true
+synthetic-00220,"So far, the package is quick; delivery took longer than promised. This is the part I noticed most often.",delivery,true
+synthetic-00494,"As a gift, the Bluetooth connection is quick; the signal drops in another room. It was the deciding factor for me.",connectivity,true
+synthetic-00197,"In daily use, the earbuds is short; the battery indicator is helpful. The experience was different from what I expected.",battery,true
+synthetic-00374,"In daily use, the headphones is tight; the ear cushions need improvement. I would consider buying it again.",comfort,true
+synthetic-00302,"For the price, the earbuds is comfortable; it fits well during a workout. The experience was different from what I expected.",comfort,true
+synthetic-00064,"Honestly, the speaker is balanced; podcasts are easy to hear. That detail mattered more than I expected.",audio_quality,true
+synthetic-00508,"As a gift, the support team is helpful; the replacement process was clear. I would consider buying it again.",customer_support,true
+synthetic-00072,"After a week, the headphones is clear; the bass is surprisingly good. This is the part I noticed most often.",audio_quality,true
+synthetic-00052,"Overall, the headphones is balanced; the bass is surprisingly good. It was the deciding factor for me.",audio_quality,true
+synthetic-00460,"In daily use, the wireless pairing is frustrating; pairing took only a few seconds. The experience was different from what I expected.",connectivity,true
+synthetic-00045,"Overall, the earbuds is crisp; the bass is surprisingly good. I would consider buying it again.",audio_quality,true
+synthetic-00112,"Compared with my old one, the headphones is disappointing; I have to charge it every evening. The experience was different from what I expected.",battery,true
+synthetic-00441,"For the price, the Bluetooth connection is stable; the signal drops in another room. This is the part I noticed most often.",connectivity,true
+synthetic-00227,"So far, the order is careful; tracking updates were useful. I would consider buying it again.",delivery,true
+synthetic-00526,"So far, the support team is professional; I had to repeat the problem twice. That detail mattered more than I expected.",customer_support,true
+synthetic-00316,"In daily use, the headphones is lightweight; the ear cushions need improvement. That detail mattered more than I expected.",comfort,true
+synthetic-00211,"After a week, the order is late; tracking updates were useful. I would consider buying it again.",delivery,true
+synthetic-00568,"In daily use, the help desk is unresponsive; I had to repeat the problem twice. It was the deciding factor for me.",customer_support,true
+synthetic-00597,"Honestly, the service agent is slow; I had to repeat the problem twice. This is the part I noticed most often.",customer_support,true
+synthetic-00384,"Honestly, the headset is lightweight; I can wear it for hours. The experience was different from what I expected.",comfort,true
+synthetic-00322,"So far, the headset is lightweight; it fits well during a workout. That detail mattered more than I expected.",comfort,true
+synthetic-00110,"For the price, the earbuds is reliable; I have to charge it every evening. That detail mattered more than I expected.",battery,true
+synthetic-00547,"So far, the service agent is professional; I had to repeat the problem twice. The experience was different from what I expected.",customer_support,true
+synthetic-00180,"Compared with my old one, the portable speaker is excellent; it lasts through my commute. It was the deciding factor for me.",battery,true
+synthetic-00226,"Honestly, the parcel is careful; tracking updates were useful. It was the deciding factor for me.",delivery,true
+synthetic-00545,"Compared with my old one, the help desk is slow; I had to repeat the problem twice. The experience was different from what I expected.",customer_support,true
+synthetic-00333,"After a week, the headset is lightweight; I can wear it for hours. I would consider buying it again.",comfort,true
+synthetic-00540,"So far, the service agent is unresponsive; I had to repeat the problem twice. I would consider buying it again.",customer_support,true
+synthetic-00005,"So far, the headphones is crisp; music sounds detailed. The experience was different from what I expected.",audio_quality,true
+synthetic-00289,"For the price, the order is confusing; the box arrived in good condition. It was the deciding factor for me.",delivery,true
+synthetic-00272,"Compared with my old one, the parcel is careful; the box arrived in good condition. I would consider buying it again.",delivery,true
+synthetic-00036,"In daily use, the speaker is crisp; music sounds detailed. This is the part I noticed most often.",audio_quality,true
+synthetic-00074,"After a week, the headphones is clear; music sounds detailed. The experience was different from what I expected.",audio_quality,true
+synthetic-00347,"Compared with my old one, the headphones is lightweight; it fits well during a workout. That detail mattered more than I expected.",comfort,true
+synthetic-00329,"In daily use, the headphones is stiff; I can wear it for hours. It was the deciding factor for me.",comfort,true
+synthetic-00069,"In daily use, the headphones is rich; the bass is surprisingly good. This is the part I noticed most often.",audio_quality,true
+synthetic-00448,"Compared with my old one, the Bluetooth connection is unreliable; the signal drops in another room. That detail mattered more than I expected.",connectivity,true
+synthetic-00386,"Compared with my old one, the headset is tight; I can wear it for hours. The experience was different from what I expected.",comfort,true
+synthetic-00417,"In daily use, the wireless pairing is quick; switching devices is straightforward. I would consider buying it again.",connectivity,true
+synthetic-00397,"After a week, the earbuds is stiff; I can wear it for hours. This is the part I noticed most often.",comfort,true
+synthetic-00196,"As a gift, the earbuds is reliable; I have to charge it every evening. It was the deciding factor for me.",battery,true
+synthetic-00141,"Compared with my old one, the headphones is reliable; I have to charge it every evening. This is the part I noticed most often.",battery,true
+synthetic-00307,"After a week, the headphones is stiff; the ear cushions need improvement. This is the part I noticed most often.",comfort,true
+synthetic-00377,"As a gift, the headphones is comfortable; the ear cushions need improvement. It was the deciding factor for me.",comfort,true
+synthetic-00321,"In daily use, the earbuds is lightweight; it fits well during a workout. It was the deciding factor for me.",comfort,true
+synthetic-00106,"So far, the portable speaker is disappointing; the battery indicator is helpful. That detail mattered more than I expected.",battery,true
+synthetic-00105,"Compared with my old one, the earbuds is short; I have to charge it every evening. It was the deciding factor for me.",battery,true
+synthetic-00092,"As a gift, the earbuds is crisp; the bass is surprisingly good. This is the part I noticed most often.",audio_quality,true
+synthetic-00393,"Compared with my old one, the earbuds is tight; the ear cushions need improvement. This is the part I noticed most often.",comfort,true
+synthetic-00235,"Overall, the package is late; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00073,"As a gift, the headphones is crisp; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00490,"Overall, the wireless pairing is frustrating; switching devices is straightforward. I would consider buying it again.",connectivity,true
+synthetic-00531,"Overall, the service agent is helpful; my issue was resolved on the first call. This is the part I noticed most often.",customer_support,true
+synthetic-00433,"Overall, the Bluetooth connection is unreliable; pairing took only a few seconds. The experience was different from what I expected.",connectivity,true
+synthetic-00124,"In daily use, the portable speaker is excellent; I have to charge it every evening. I would consider buying it again.",battery,true
+synthetic-00565,"For the price, the support team is professional; my issue was resolved on the first call. I would consider buying it again.",customer_support,true
+synthetic-00009,"So far, the speaker is rich; music sounds detailed. The experience was different from what I expected.",audio_quality,true
+synthetic-00010,"Honestly, the headphones is crisp; music sounds detailed. The experience was different from what I expected.",audio_quality,true
+synthetic-00456,"In daily use, the phone connection is frustrating; switching devices is straightforward. That detail mattered more than I expected.",connectivity,true
+synthetic-00232,"Overall, the parcel is late; the box arrived in good condition. The experience was different from what I expected.",delivery,true
+synthetic-00552,"Honestly, the service agent is unresponsive; my issue was resolved on the first call. That detail mattered more than I expected.",customer_support,true
+synthetic-00080,"In daily use, the speaker is rich; the bass is surprisingly good. This is the part I noticed most often.",audio_quality,true
+synthetic-00489,"In daily use, the wireless pairing is quick; pairing took only a few seconds. I would consider buying it again.",connectivity,true
+synthetic-00219,"As a gift, the order is careful; tracking updates were useful. This is the part I noticed most often.",delivery,true
+synthetic-00002,"For the price, the headphones is balanced; podcasts are easy to hear. The experience was different from what I expected.",audio_quality,true
+synthetic-00098,"Compared with my old one, the speaker is clear; the bass is surprisingly good. I would consider buying it again.",audio_quality,true
+synthetic-00094,"Honestly, the speaker is balanced; podcasts are easy to hear. It was the deciding factor for me.",audio_quality,true
+synthetic-00575,"For the price, the service agent is unresponsive; the replacement process was clear. This is the part I noticed most often.",customer_support,true
+synthetic-00240,"In daily use, the package is confusing; the box arrived in good condition. This is the part I noticed most often.",delivery,true
+synthetic-00313,"As a gift, the headphones is comfortable; the ear cushions need improvement. This is the part I noticed most often.",comfort,true
+synthetic-00406,"Honestly, the wireless pairing is frustrating; switching devices is straightforward. The experience was different from what I expected.",connectivity,true
+synthetic-00054,"In daily use, the speaker is crisp; music sounds detailed. This is the part I noticed most often.",audio_quality,true
+synthetic-00170,"After a week, the headphones is excellent; it lasts through my commute. This is the part I noticed most often.",battery,true
+synthetic-00381,"After a week, the earbuds is comfortable; I can wear it for hours. This is the part I noticed most often.",comfort,true
+synthetic-00085,"Compared with my old one, the speaker is crisp; podcasts are easy to hear. I would consider buying it again.",audio_quality,true
+synthetic-00257,"Honestly, the parcel is careful; the box arrived in good condition. It was the deciding factor for me.",delivery,true
+synthetic-00370,"Honestly, the earbuds is stiff; I can wear it for hours. It was the deciding factor for me.",comfort,true
+synthetic-00582,"After a week, the support team is unresponsive; I had to repeat the problem twice. That detail mattered more than I expected.",customer_support,true
+synthetic-00281,"Honestly, the order is confusing; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00163,"In daily use, the portable speaker is excellent; it lasts through my commute. This is the part I noticed most often.",battery,true
+synthetic-00310,"As a gift, the earbuds is comfortable; it fits well during a workout. This is the part I noticed most often.",comfort,true
+synthetic-00136,"Honestly, the earbuds is short; the battery indicator is helpful. The experience was different from what I expected.",battery,true
+synthetic-00208,"Honestly, the order is late; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00439,"As a gift, the phone connection is stable; pairing took only a few seconds. That detail mattered more than I expected.",connectivity,true
+synthetic-00001,"Honestly, the speaker is clear; music sounds detailed. That detail mattered more than I expected.",audio_quality,true
+synthetic-00468,"As a gift, the wireless pairing is unreliable; pairing took only a few seconds. This is the part I noticed most often.",connectivity,true
+synthetic-00452,"Honestly, the phone connection is stable; the signal drops in another room. That detail mattered more than I expected.",connectivity,true
+synthetic-00162,"Overall, the earbuds is reliable; the battery indicator is helpful. The experience was different from what I expected.",battery,true
+synthetic-00128,"After a week, the portable speaker is reliable; I have to charge it every evening. The experience was different from what I expected.",battery,true
+synthetic-00017,"Compared with my old one, the earbuds is balanced; podcasts are easy to hear. I would consider buying it again.",audio_quality,true
+synthetic-00471,"After a week, the Bluetooth connection is frustrating; switching devices is straightforward. That detail mattered more than I expected.",connectivity,true
+synthetic-00102,"After a week, the earbuds is disappointing; it lasts through my commute. I would consider buying it again.",battery,true
+synthetic-00048,"So far, the earbuds is balanced; the bass is surprisingly good. That detail mattered more than I expected.",audio_quality,true
+synthetic-00050,"In daily use, the speaker is clear; music sounds detailed. That detail mattered more than I expected.",audio_quality,true
+synthetic-00352,"In daily use, the earbuds is lightweight; I can wear it for hours. This is the part I noticed most often.",comfort,true
+synthetic-00497,"Compared with my old one, the wireless pairing is unreliable; the signal drops in another room. It was the deciding factor for me.",connectivity,true
+synthetic-00134,"As a gift, the headphones is reliable; it lasts through my commute. It was the deciding factor for me.",battery,true
+synthetic-00561,"For the price, the support team is professional; I had to repeat the problem twice. I would consider buying it again.",customer_support,true
+synthetic-00346,"Compared with my old one, the headphones is comfortable; it fits well during a workout. That detail mattered more than I expected.",comfort,true
+synthetic-00291,"In daily use, the package is confusing; tracking updates were useful. It was the deciding factor for me.",delivery,true
+synthetic-00331,"As a gift, the headset is lightweight; I can wear it for hours. I would consider buying it again.",comfort,true
+synthetic-00275,"After a week, the order is confusing; the box arrived in good condition. This is the part I noticed most often.",delivery,true
+synthetic-00507,"So far, the service agent is professional; my issue was resolved on the first call. It was the deciding factor for me.",customer_support,true
+synthetic-00217,"As a gift, the order is careful; tracking updates were useful. It was the deciding factor for me.",delivery,true
+synthetic-00440,"After a week, the Bluetooth connection is frustrating; the signal drops in another room. This is the part I noticed most often.",connectivity,true
+synthetic-00224,"As a gift, the package is careful; the box arrived in good condition. That detail mattered more than I expected.",delivery,true
+synthetic-00408,"Compared with my old one, the wireless pairing is quick; switching devices is straightforward. That detail mattered more than I expected.",connectivity,true
+synthetic-00548,"Honestly, the support team is professional; I had to repeat the problem twice. It was the deciding factor for me.",customer_support,true
+synthetic-00065,"Compared with my old one, the earbuds is clear; music sounds detailed. This is the part I noticed most often.",audio_quality,true
+synthetic-00367,"Honestly, the earbuds is stiff; the ear cushions need improvement. That detail mattered more than I expected.",comfort,true
+synthetic-00470,"Compared with my old one, the phone connection is unreliable; switching devices is straightforward. I would consider buying it again.",connectivity,true
+synthetic-00591,"In daily use, the support team is unresponsive; the replacement process was clear. It was the deciding factor for me.",customer_support,true
+synthetic-00003,"Overall, the headphones is crisp; music sounds detailed. I would consider buying it again.",audio_quality,true
+synthetic-00336,"As a gift, the headphones is tight; it fits well during a workout. I would consider buying it again.",comfort,true
+synthetic-00500,"In daily use, the wireless pairing is unreliable; the signal drops in another room. It was the deciding factor for me.",connectivity,true
+synthetic-00466,"For the price, the wireless pairing is quick; switching devices is straightforward. The experience was different from what I expected.",connectivity,true
+synthetic-00378,"For the price, the headset is stiff; the ear cushions need improvement. That detail mattered more than I expected.",comfort,true
+synthetic-00285,"After a week, the parcel is confusing; tracking updates were useful. It was the deciding factor for me.",delivery,true
+synthetic-00528,"Honestly, the help desk is unresponsive; my issue was resolved on the first call. That detail mattered more than I expected.",customer_support,true
+synthetic-00413,"Compared with my old one, the phone connection is quick; switching devices is straightforward. The experience was different from what I expected.",connectivity,true
+synthetic-00096,"So far, the earbuds is rich; the bass is surprisingly good. It was the deciding factor for me.",audio_quality,true
+synthetic-00078,"After a week, the earbuds is crisp; podcasts are easy to hear. That detail mattered more than I expected.",audio_quality,true
+synthetic-00463,"So far, the phone connection is stable; switching devices is straightforward. This is the part I noticed most often.",connectivity,true
+synthetic-00385,"After a week, the headset is comfortable; it fits well during a workout. The experience was different from what I expected.",comfort,true
+synthetic-00425,"So far, the wireless pairing is quick; switching devices is straightforward. That detail mattered more than I expected.",connectivity,true
+synthetic-00276,"For the price, the order is careful; delivery took longer than promised. I would consider buying it again.",delivery,true
+synthetic-00592,"Overall, the support team is slow; I had to repeat the problem twice. It was the deciding factor for me.",customer_support,true
+synthetic-00146,"Compared with my old one, the earbuds is short; I have to charge it every evening. It was the deciding factor for me.",battery,true
+synthetic-00502,"Compared with my old one, the service agent is slow; the replacement process was clear. That detail mattered more than I expected.",customer_support,true
+synthetic-00403,"Compared with my old one, the wireless pairing is unreliable; the signal drops in another room. It was the deciding factor for me.",connectivity,true
